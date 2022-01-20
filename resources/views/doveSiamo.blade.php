@@ -13,7 +13,7 @@
 
       <h2 class="text-center">Non so neanche questo</h2>
 
-      <a href="{{ route('name') }}">Cliccami per tornare alla home</a>
+      <a href="{{ route('home') }}">Cliccami per tornare alla home</a>
 
    </div>
    
